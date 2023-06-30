@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>557847221433-jvgn3ag5adhmqvccr5gjkvg0a0v3utni.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.557847221433-jvgn3ag5adhmqvccr5gjkvg0a0v3utni</string>
+	<key>API_KEY</key>
+	<string>AIzaSyApPegqyHZ14cQfq2FBtNKtD1fd8Zzd3sg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>557847221433</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.chat.app.chapApp</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-prep-6a73a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-prep-6a73a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:557847221433:ios:c5bd451d6e8d69b3593768</string>
+	<key>DATABASE_URL</key>
+	<string>https://flutter-prep-6a73a-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
